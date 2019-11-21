@@ -6,9 +6,11 @@ Encrypt Decrypt CaesarChiper Shift Mod26
 Input shift/key max 26
 
 Encrypt = InputText + shift/key
+
 Decrypt = InputText - shift/key
 
-Source Code is Encode
+Source Code is Encode,
+
 You want to know? Please Decode!
 Thanks
 
