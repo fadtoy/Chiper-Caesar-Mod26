@@ -13,8 +13,3 @@ Source Code is Encode,
 
 You want to know? Please Decode!
 Thanks
-
-
-Regards :
-  Mr.ToyZ - ID
-  Haxor Security
